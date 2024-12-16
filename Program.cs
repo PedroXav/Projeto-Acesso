@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Xml.Serialization;
 using System.IO;
 
-// Classes Usuario, Ambiente, Log, e Cadastro
-// Já fornecidas anteriormente
+//Desenvolvido por Pedro Xavier Oliveira
 
 public class Program {
     public static void Main(string[] args) {

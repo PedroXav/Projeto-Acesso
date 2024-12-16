@@ -1,3 +1,5 @@
+//Desenvolvido por Pedro Xavier Oliveira
+
 using System;
 
 public class Log {
